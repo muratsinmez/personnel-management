@@ -78,10 +78,10 @@ It’s not just a project —
 ```bash
 cd backend
 mvn spring-boot:run
-
+```
+```bash
 ### 2. Frondend
 cd frontend
 npm install
 npm start
-
-
+```
