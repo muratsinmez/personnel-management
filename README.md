@@ -31,6 +31,7 @@ Ama sadece bu değil…
 
 ---
 
+💡 Not: Backend localhost:8080, Frontend localhost:3000 üzerinden çalışır.
 
 ## 🔧 Kurulum
 
