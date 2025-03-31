@@ -79,8 +79,8 @@ It’s not just a project —
 cd backend
 mvn spring-boot:run
 ```
-```bash
 ### 2. Frondend
+```bash
 cd frontend
 npm install
 npm start
