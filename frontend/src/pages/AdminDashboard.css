@@ -1,0 +1,79 @@
+/* Başlık */
+h2 {
+    text-align: center;
+    color: #5e4ae3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Genel buton stilleri */
+  button {
+    padding: 8px 16px;
+    margin: 5px;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    opacity: 0.85;
+  }
+  
+  /* Kaydet butonu */
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  /* Güncelle butonu */
+  button.update-btn {
+    background-color: #2196F3;
+    color: white;
+  }
+  
+  /* Sil butonu */
+  button.delete-btn {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  /* Formu aç/kapat butonu */
+  button.toggle-btn {
+    background-color: #9c27b0;
+    color: white;
+  }
+  
+  /* Form inputları */
+  form input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+  }
+  
+  /* Form kutusu */
+  form {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  }
+  
+  /* Tablo stilleri */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #e0e0e0;
+  }
+  
