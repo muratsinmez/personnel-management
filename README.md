@@ -33,7 +33,45 @@ Ama sadece bu değil…
 
 💡 Not: Backend localhost:8080, Frontend localhost:3000 üzerinden çalışır.
 
-## 🔧 Kurulum
+# 👑 Personnel Management System
+
+This project is a personnel management application developed using **Spring Boot (Backend)** and **React (Frontend)**.  
+But honestly...  
+It’s not just a project — 
+
+## 🚀 Features
+
+- 🔐 Login System (Admin & Employee)
+- 📋 Employee Listing, Adding, Updating, Deleting
+- 📅 Leave Request System (Requested by employee, approved/rejected by admin)
+- 📂 Department Information
+- 📨 Leave Status Tracking
+- 💖 Personalized Dashboard per User Role
+- 🧠 Strong React & Spring Boot Integration
+
+---
+
+---
+
+## 🛠 Technologies Used
+
+### Backend:
+- Java 17  
+- Spring Boot  
+- Spring Data JPA  
+- MySQL  
+
+### Frontend:
+- React  
+- Axios  
+- React Router  
+- CSS (Custom / Basic Styling)
+
+> 💡 Note: Backend runs on `localhost:8080`, Frontend on `localhost:3000`.
+
+---
+
+## 🔧 Setup
 
 ### 1. Backend
 
@@ -45,4 +83,5 @@ mvn spring-boot:run
 cd frontend
 npm install
 npm start
+
 
